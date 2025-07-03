@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IASvYpoOvDsAxJoMv5lNfcGUhmlkswFqzZOJCGmLN50=",
+  "Source": "TourisGuidApi",
+  "BasePath": "_content/TourisGuidApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
