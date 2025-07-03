@@ -9,6 +9,20 @@ namespace TourisGuidApi
 {
     public class Dtos
     {
+        public record DestinationCreateDto
+        {
+            public required string Title { get; set; }
+            public string? SubTitle { get; set; }
+            public string? Description { get; set; }
+            public string? Other { get; set; }
+            public string? Email { get; set; }
+            public int? ContactNumber { get; set; }
+            public required string Address { get; set; }
+            public required string Location { get; set; }
+            public required float Latitude { get; set; }
+            public required float Longitude { get; set; }
+            public List<string>? Images { get; set; } = new List<string>();
+        }
         public record UserDto
         {
             public string? FirstName { get; set; }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rOFvMYREW14=",
+  "dgSpecHash": "zIJOru0eOD0=",
   "success": true,
-  "projectFilePath": "c:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",

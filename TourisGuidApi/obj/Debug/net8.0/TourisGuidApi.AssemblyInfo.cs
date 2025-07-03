@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TourisGuidApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1c58766bf10d204165dac4124800888d6e60651")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41427ffe8899ece1f62e1201c89fd05fd125d7ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("TourisGuidApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TourisGuidApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

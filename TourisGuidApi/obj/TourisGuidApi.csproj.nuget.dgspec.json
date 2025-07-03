@@ -4,14 +4,14 @@
     "C:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\TourisGuidApi\\TourisGuidApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj": {
+    "C:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "c:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -111,8 +111,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj": {
-                "projectPath": "c:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj"
+              "C:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj"
               }
             }
           }

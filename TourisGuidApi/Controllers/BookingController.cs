@@ -59,7 +59,6 @@ namespace TourisGuidApi.Controllers
                     StartDate = dto.StartDate,
                     EndDate = dto.EndDate,
                     CreatedAt = DateTime.UtcNow,
-                    UpdatedAt = DateTime.UtcNow,
                     PaymentReference = dto.PaymentReference
                 };
                 await _repository.CreateAsync(newBooking);
@@ -73,7 +72,7 @@ namespace TourisGuidApi.Controllers
                 return StatusCode(500, ApiResponse<string>.ErrorResponse($"An error occurred: {ex.Message}", 500));
             }
         }
-        [HttpPatch]
+        [HttpPost("edit")]
         public async Task<ActionResult> UpdateBooking([FromQuery] string id, BookingDto dto)
         {
             try
@@ -108,7 +107,7 @@ namespace TourisGuidApi.Controllers
                 return StatusCode(500, ApiResponse<string>.ErrorResponse($"An error occurred: {ex.Message}", 500));
             }
         }
-        [HttpDelete]
+        [HttpPost("remove")]
         public ActionResult DeleteBooking([FromQuery] string id)
         {
             try

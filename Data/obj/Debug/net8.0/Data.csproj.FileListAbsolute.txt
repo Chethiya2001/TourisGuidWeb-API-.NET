@@ -12,3 +12,4 @@ C:\Users\USER\Desktop\Angular\touris-project\Backend\Data\obj\Debug\net8.0\refin
 C:\Users\USER\Desktop\Angular\touris-project\Backend\Data\obj\Debug\net8.0\Data.pdb
 C:\Users\USER\Desktop\Angular\touris-project\Backend\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
 C:\Users\USER\Desktop\Angular\touris-project\Backend\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\USER\Desktop\Angular\touris-project\Backend\Data\obj\Debug\net8.0\Data.sourcelink.json

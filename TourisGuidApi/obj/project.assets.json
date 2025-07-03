@@ -3277,8 +3277,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj": {
-              "projectPath": "c:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj"
+            "C:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\Angular\\touris-project\\Backend\\Data\\Data.csproj"
             }
           }
         }
